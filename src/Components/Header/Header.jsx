@@ -9,7 +9,7 @@ const Header =()=>{
         <Flex justifyContent='space-between' color='White' bg='#1a1a1a' p='3' paddingX='10%' >
             <Box color='white' bg='#1a1a1a' >
                 <Image
-                    src="public\logo.png"
+                    src="../../public/logo.png"
                     width='100px'
                 />
             </Box>
